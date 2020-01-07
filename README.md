@@ -12,9 +12,9 @@
     * git status - Athugar stöðu staðbundinnar geymslu gegn fjartengdri geymslu
     * git diff - Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit)
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
-    * git log -
-    * git checkout -
-    * git branch -
+    * git log - Sýnir lista yfir allar skráningar (commit) sem gerðar hafa verið í greininni sem HEAD bendir á
+    * git checkout - Vísar þér yfir á grein og færir um leið HEAD bendirinn
+    * git branch - Sýnir lista yfir allar staðtengdar (local) greinar
 4. Hvað er útgáfustýring (Version Control)?
 5. Hverjir eru helstu kostir við að nota GIT?
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
