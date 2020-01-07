@@ -3,10 +3,10 @@
 #### Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
-    * cd -
-    * ls -
-    * pwd -
-    * mkdir -
+    * cd - Skiptir um staðsetningu
+    * ls - Sýnir öll gögn í viðkomandi möppu
+    * pwd - Sýnir staðsetningu Git Bash
+    * mkdir - Býr til möppu
 2. Hvað gera eftirfarandi Git skipanir?
     * git clone -
     * git status -
