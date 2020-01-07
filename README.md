@@ -8,9 +8,9 @@
     * pwd - Sýnir staðsetningu Git Bash
     * mkdir - Býr til möppu
 2. Hvað gera eftirfarandi Git skipanir?
-    * git clone -
-    * git status -
-    * git diff -
+    * git clone - Klónar Git geymslu á nýtt vinnusvæði, allar skráningar fylgja með
+    * git status - Athugar stöðu staðbundinnar geymslu gegn fjartengdri geymslu
+    * git diff - Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit)
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
     * git log -
     * git checkout -
