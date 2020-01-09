@@ -1,6 +1,6 @@
 # Verkefni1
 
-#### Git spurningar og svör
+#### Git Ný grein
 
 1. Hvað gera eftirfarandi Linux skipanir?
     * cd - Skiptir um staðsetningu
