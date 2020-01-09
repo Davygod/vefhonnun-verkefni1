@@ -16,10 +16,10 @@
     * git checkout - Vísar þér yfir á grein og færir um leið HEAD bendirinn
     * git branch - Sýnir lista yfir allar staðtengdar (local) greinar
 4. Hvað er útgáfustýring (Version Control)? 
-   * SVAR: Aðgerðarstýring sem notað er í Git.
+   * __SVAR:__ Aðgerðarstýring sem notað er í Git.
 5. Hverjir eru helstu kostir við að nota GIT? 
-   * SVAR: Það tryggir til að verkefni skaðist ekki eða verr og auðveldar samvinnu.
+   * __SVAR:__ Það tryggir til að verkefni skaðist ekki eða verr og auðveldar samvinnu.
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? 
-   * SVAR: Ein klst. að lágmarki.
+   * __SVAR:__ Ein klst. að lágmarki.
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? 
-   * SVAR: "Working Directory" þýðir "vinnuskrá" þar sem notandinn vinnur í og "Staging Area" þýðir "sviðsetning" þar skráð er í vinnuskránna.
+   * __SVAR:__ "Working Directory" þýðir "vinnuskrá" þar sem notandinn vinnur í og "Staging Area" þýðir "sviðsetning" þar skráð er í vinnuskránna.
